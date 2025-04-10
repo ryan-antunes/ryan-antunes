@@ -16,5 +16,5 @@
 - 📁Exercícios Beecrownd.
 
 ## Contatos:
-- 📞Tel: 15988077055;
+- 📞Tel: 15988077055
 - 📱Email: antunes90000@gmail.com
