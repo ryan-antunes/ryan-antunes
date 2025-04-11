@@ -13,7 +13,8 @@
 ## Meus Projetos:
 - 📁Site do Jogo Bully;
 - 📁Exercícios Python; 
-- 📁Exercícios Beecrownd. 
+- 📁Exercícios Beecrownd;
+- 📁Exercícios Portugol.
 ## Contatos:
 - 📞Tel: 15988077055
 - 📱 Email: antunes90000@gmail.com
