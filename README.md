@@ -11,10 +11,9 @@
 - 📗CSS.
 
 ## Meus Projetos:
-- 📁Site do Jogo Bully (conta-html-2);
-- 📁Exercícios Python (exerc-py-ryan);
-- 📁Exercícios Beecrownd (beecrownd).
-
+- 📁Site do Jogo Bully;
+- 📁Exercícios Python; 
+- 📁Exercícios Beecrownd. 
 ## Contatos:
 - 📞Tel: 15988077055
 - 📱 Email: antunes90000@gmail.com
