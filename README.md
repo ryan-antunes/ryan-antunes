@@ -11,7 +11,7 @@
 - 📗CSS.
 
 ## Meus Projetos:
-- 💻Site do Jogo Bully;
+- 📁Site do Jogo Bully;
 - 📁Exercícios Python;
 - 📁Exercícios Beecrownd.
 
