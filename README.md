@@ -10,7 +10,7 @@
 - 📗HTML;
 - 📗CSS.
 
-## Meus Projetos:
+## Meus Repositórios:
 - 📁Site do Jogo Bully;
 - 📁Exercícios Python; 
 - 📁Exercícios Beecrownd. 
